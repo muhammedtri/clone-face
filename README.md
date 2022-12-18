@@ -1,3 +1,3 @@
 ## my first app using Reactjs and MUI
 
-live preview : https://muhammedtri.github.io/clone-face/
+live preview : https://first-reactapp-mui.netlify.app
